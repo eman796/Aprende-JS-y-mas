@@ -1,0 +1,9 @@
+1. Comentarios:
+Se debe poner "<--" y cuando queremos dejar de hacerlo, lo hacemos con "-->"
+2. Negritas:
+Es básicamente ponerle negritas a cierto texto. Se hace con la etiqueta "<b></b>"
+3. Citas de texto:
+Es hacer referencia a una frase. Se hace con la etiqueta blogquote
+4. Codigo:
+Se usa para referenciar codigo dentro de nuestro código, o insertar codigo en los atributos de
+la etiqueta y queremos darle un formato distinto a ese código

@@ -1,0 +1,13 @@
+1. Text Area:
+Se usa para textos gigantescos. El usuario lo puede redimensionar a su gusto
+
+2. Select = 
+Se usa cuando se quiere que el usuario seleccione una opcion. Se abre con "<select></select>" y dentro se ponen las opciones con "<option></option>"
+Nota importante: A la hora de elegir la opcion, no se guarda en memoria con el String que le pongamos, sino que debemos asignarle un valor con la propiedad value. 
+En palabras mas simples, lo que se envia a JS y al servidor es lo que esta en la propiedad value, no el valor que se le muestra al usuario
+
+3. Label: Se usa con el fin de indicar al usuario donde rellenar campos, aunque su uso no se limita a formularios. Sirve como etiqueta, y creo que se le pueden poner fotos (No xd)
+En el caso de EJEMPLO BIAS TWICE, uno le da al coso y selecciona BIAS, y cada que selecciona uno, le pone "has seleccionado a Nayeon"
+
+Para agrupar varios formularios en uno solo, está fieldset. Dentro de esta estarán los fields que uno le asigne. Para ponerle texto,
+ se puede poner la etiqueta legend y queda en medio de las lineas. Está en el ejemplo "Fieldset + placeholder".

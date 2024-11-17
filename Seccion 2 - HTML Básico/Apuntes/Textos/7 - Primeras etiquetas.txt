@@ -1,0 +1,11 @@
+Para hacer un html, hay etiquetas que siempre deben estar presente
+    1. <!Doctype html>:
+    Se usa para indicarle al navegador que estamos usando HTML5, la version más reciente
+    2. <html> Contenido</html>: Se usa para indicar el inicio y cierre del Contenido HTML, y, dentro de estas etiquetas, debemos indicar el contenido HTML que le querramos agregar a la página
+    3. Head: No muestra nada en el navegador web, pero carga archivos css y javascript, o alguna instruccion al navegador con el fin de no ser mostrada en el cuerpo del proyecto
+    4. Body: Es una etiqueta usada para cuando queremos mostrar contenido en el explorador
+    5. Tittle: Da el titulo de la pestaña al navegador. 
+    6. p: Es una etiqueta usada para cuando queremos mostrar un párrafo. Generalmente se usa como subtitulos
+    7. Salto de linea (br): Indica a HTML que se salte la linea
+    8. Separaciones con linea horizontal: Separa elementos con una barra. Se hace con <hr/>, y siempre se cierra
+    La diferencia entre br y hr  es que no se pued

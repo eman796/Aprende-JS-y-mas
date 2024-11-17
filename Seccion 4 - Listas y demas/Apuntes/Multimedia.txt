@@ -1,0 +1,15 @@
+1. Imagenes:
+Se usa con la etiqueta <img> y se debe de anotar la fuente (De internet o de forma local) con la etiqueta SRC
+Para probar imagenes (De gatos), lo mejor es https://placecats.com/
+2. Link:
+Se hace con la etiqueta "a" y con "href". Igualmente, si queremos abrirlo en otra pestaña, existe el atributo Target
+
+2. Listas:
+2.1 Ordenadas:
+Se hacen con ul, y, dentro de esta, le indicamos los elementos con "li"
+
+3. Tablas:
+Se usa cuando queremos mostrar mas datos al usuario, o varios registros de una Base de Datos, por ejemplo. 
+Se hacen con la etiqueta table
+Para la cabecera de la tabla, se usa la etiqueta thead, y para indicar la cantidad de contenidos, está la etiqueta tr. Luego esta el contenido, que es th
+Para el cuerpo, usamos tbody.Para añadir una columna, está la etiqueta td, y para los contenidos está td

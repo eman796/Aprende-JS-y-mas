@@ -1,0 +1,7 @@
+form de formulario: Es una forma de pedir datos a un usuario. No nos aparece nada si solo ponemos el form, por lo que debemos poner "input"
+Hay tipos de inputs, como los de email, number y demás. Conforme los vayamos necesitando, podemos asignar unos o otros. Por defecto aguanta strings
+Para hacer el tipico boton de enviar, solo ponemos una etiqueta llamada submit, la cual, para cambiar el texto por defecto, se usa la propiedad 'value'
+Hay otra etiqueta para ingresar cmo texto dentro, para indicar donde se debe colocar llamada placeholder
+Todo esto es del archivo "1. Formularios e inputs"
+
+En el ejemplo Correo vs String, se puede ver que me pone una pequeña sugerencia de que ponga "@"

@@ -1,0 +1,38 @@
+
+<fieldset><legend> BIAS EN TEXTO</legend>
+<textarea placeholder="Pone aqui que Nayeon es Tu BIAS"></textarea>
+</fieldset>
+<h1>No sea bruto y elija a su BIAS de Tu Hai</h1>
+
+<fieldset><legend>BIAS en select</legend>
+    <select id="MomoBella" onchange="CambiarLabel()">
+        <option value="XD">0. Ejila Una Opcion</option>
+        <option value="Nayeon">1. Nayeon</option>
+        <option value="Jihyo">2. Jihyo</option>
+        <option value="Tzuyu">3. Tzuyu</option>
+        <option value="Jeongyeon">4. Jeongyeon</option>
+        <option value="Sana">5. Sana</option>
+        <option value="Dahyun">6. Dahyun</option>
+        <option value="Chaeyoung">7. Chaeyoung</option>
+        <option value="Momo">8. Momo</option>
+        <option value="Mina">9. Mina</option>
+    </select>
+
+    <label id="MomoSeleccionada"></label>
+
+    <script type="text/javascript">
+    function CambiarLabel() {
+        const select = document.getElementById("MomoBella");
+        const label = document.getElementById("MomoSeleccionada");
+        const mem = select.value;
+        if(select.value == "XD"){
+        const mensaje = "No sea bruto y seleccione a alguien";
+        label.innerText = mensaje;  // Muestra el texto en el label
+    }
+    else{
+        const mensaje = `Has seleccionado a ${mem}`;
+        label.innerText = mensaje;  // Muestra el texto en el label
+    }
+}
+    </script>
+</fieldset>

@@ -1,0 +1,16 @@
+1. Cursivas:
+Se hace con las etiquetas em
+2. Texto Italico:
+Se realiza con la etiquetas "I"
+3. Texto Preformateado:
+Es un texto al despiche. Se implementa con "pre"
+4. Tachado:
+Se hace con "s". Es como para poner una oferta
+5. Texto pequeño:
+Se usa con "small"
+6. Fuerte:
+Es lo contrario al punto 5. Hace el texto "Mas Grande"
+7. Subrayado
+Al texto se le pone una linea debajo. Se hace con el fin de hacer enfasis en algo, y usando la etiqeta u
+8. Secciones>
+Se usa para indicar un cambio de seccion en nuestro codigo
