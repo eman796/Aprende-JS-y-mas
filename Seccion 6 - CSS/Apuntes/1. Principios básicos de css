@@ -1,0 +1,8 @@
+Lo primero es que se debe de ingresar en el head de html, y css sin html no sirve para nada. 
+Se pone en el head porque el navegador carga el html linea por linea, por lo que se recomienda cargarlo desde aqui
+
+Para cargar el css, lo que se debe usar es la etiqueta link en el html, con la propiedad href. Luego, pondremos el tipo de archivo a cargar, que en este caso es css, y la etiqueta rel
+le ponemos stylesheet
+
+1. Selectores: Son instrucciones para seleccionar etiquetas de HTML. Un ejemplo, si tengo varios h1, puedo seleccionarlos todos con un selector
+2. Despues de poner el nombre del selector, abro y ciero "{}" y dentro de estos, las propiedades
