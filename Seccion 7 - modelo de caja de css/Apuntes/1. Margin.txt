@@ -1,0 +1,6 @@
+Las paginas webs son realmente cajas, y nos permite reutilizar estas cajas en mas partes de nuestro codigo. 
+Un ejemplo para reutilizar estas cajas es en el menu de Freshmoody, o no se xd
+
+Los margenes desplazan el contenido de la caja, sin afectarlo. 
+Ejemplo de esto es que se puede pintar la pagina y moverla a donde uno le de la gana con los margenes que solo se pintara el contenido dentro. 
+Margin genera una separacion entre nuestro contenido y la caja anterior. Se genera este espacio fuera de nuestro contenido

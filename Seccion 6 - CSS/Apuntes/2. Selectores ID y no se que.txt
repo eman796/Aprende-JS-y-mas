@@ -1,0 +1,10 @@
+ID: Se usa en html para darle una identificacion unica a cada etiqueta, y no se puede repetir
+    - Se accede a esta propiedad con "id". 
+    - Se aconseja que sea algo que le haga sentido a lo que estamos trabajando
+    -En css, se declara este con "#" y su respectivo nombre
+
+Clases: Sirven para cuando queremos hacer composiciones de estilos sobre elementos html, o cuando queremos dar estos estilos a varios elementos html
+    - Se accede con class y se le pone nombre
+    - Se le puede poner la misma etiqueta a varias clases
+    -Ya en CSS, debemos poner "." y el nombre del elemento
+

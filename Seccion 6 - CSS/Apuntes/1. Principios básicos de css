@@ -6,3 +6,5 @@ le ponemos stylesheet
 
 1. Selectores: Son instrucciones para seleccionar etiquetas de HTML. Un ejemplo, si tengo varios h1, puedo seleccionarlos todos con un selector
 2. Despues de poner el nombre del selector, abro y ciero "{}" y dentro de estos, las propiedades
+
+Los colores van en formato hexadecimal ("#" seguido de 6 caracteres especificos)

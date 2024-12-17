@@ -1,0 +1,15 @@
+body{
+    background-color: black; 
+    
+}
+h1{
+    color: pink;
+    margin-left: 65px;
+}
+pre{
+    color: pink;
+    font-size: 1.2em;
+}
+a{
+    color:pink;
+}
