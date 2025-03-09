@@ -1,0 +1,5 @@
+Los links en css tienen tantas propiedades como cualquier otro texto o párrafo
+Una propiedad interesante es que cuando se abra un link que no habiamos visitado, el link puede cambiar de color. Se hace con a:link
+a:visited: Es por si le cambiamos la propiedad a un link que el usuario ya ha visitado
+a:hover: Cuando ponemos el mouse encima
+a:active: Cuando pinchamos el boton principal del mouse

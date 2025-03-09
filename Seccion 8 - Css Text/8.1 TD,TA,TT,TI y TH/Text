@@ -22,3 +22,9 @@ Text Shadow: Añade sombras al texto
 2. que tanto se desplaza el texto hacia abajo
 3. El difuminado del texto
 4. El color. Lo mejor es en rgba (0,0,0,0.5) para ver la sombra oscura
+
+Tipos de fuentes:
+Font Family: La familia de la fuente (TNR, Century, Arial, Monaco, Calibri, etc).
+Font Style: El estilo de fuente (Cursiva, negrita, etc).
+Font Size: Tamaño de la fuente, donde em es como la predeterminada del navegador
+Font weight: Peso de la fuente, y no todas las fuentes tienen de esto
