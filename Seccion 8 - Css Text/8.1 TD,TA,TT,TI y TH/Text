@@ -1,0 +1,24 @@
+Text Decoration: Añade decoracion a nuestro texto.
+None: Le quita las decoraciones al texto
+Overline: Le pone una raya arriba al texto
+Line-through: Traza una linea en medio del texto
+Underline: Pone la linea como si fuese un link
+
+Text Transform: Es para ponerlo all en mayusculas, minusculas
+Uppercase: Pone all en mayusculas
+Lower: Pone all en minusculas
+Capitalize: Capitzliza las letras. Los comunistas/socilaistas no usan esta proppiedad
+
+Text Indent: Le añade una sangria de x pixeles
+
+Letter Spacing: Separa las letras en x canidad de pixeles
+
+Line Height: Es como el interlineado en word:
+
+Word-Spacing: espacio en pixeles que le queremos dar de separacion a cada palabra
+
+Text Shadow: Añade sombras al texto
+1.Que tanto tiene que moverse el texto a la derecha
+2. que tanto se desplaza el texto hacia abajo
+3. El difuminado del texto
+4. El color. Lo mejor es en rgba (0,0,0,0.5) para ver la sombra oscura

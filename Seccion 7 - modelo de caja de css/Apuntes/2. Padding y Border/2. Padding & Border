@@ -1,0 +1,17 @@
+Padding: Añade x cantidad de "margenes" a nuestro contenido. A diferencia de margin Padding añade contenido invisible hacia adentro de nuestra caja
+
+Border: Este se encuentra entre el medio delñ margen y el padding. Hay varias propiedades, como para cambiarle el color, el estilo, etc
+Atributo style: Le da estilo al borde. Se puede poner en solido (solid), Dashed(Punteado) , dotted(Punteado pero con mas puntes) y demas. Se pueden combinar
+Width: Es cuanto de grosor tiene el borde. 
+Color: El mismo nombre del atributo lo dice
+Top, left, right y Bottom: Se usa para configurar los distintos bordes, ya sea de arriba, izquierdo, derecho y abajo de manera independiente cada uno. Una nota
+Es que como css es como java (Va linea por linea), si queremos modificar x borde, debe ser despues de darle propiedades al borde general.
+Si lo hacemos antes, agarra las propiedades del borde general y no la del borde en especifico. 
+
+Si vemos en la imagen "Bordes correctos", las propiedades del borde izquierdo (Borde especifico que quiero modificar)
+Estan despues de las propiedades del borde general, por lo que aparece el borde izquierdo negro y mas pixeleado
+
+De lo contrario, pasara lo que vemos en "Bordes incorrectos", donde las propiedades del borde izquierdo estan primero que las 
+del borde general, por lo que las propiedades del borde izquierdo no apreceran
+
+

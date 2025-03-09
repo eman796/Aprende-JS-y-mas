@@ -1,0 +1,40 @@
+body{
+    background-color: #fc5d9d;
+}
+#None{
+    color: #0384f8;
+    text-decoration: none;
+}
+#OL{
+    text-decoration: overline;
+}
+#LT{
+    text-decoration: line-through;
+}
+#UL{
+    text-decoration: underline;
+}
+#TTU{
+    text-transform: uppercase;
+}
+#TTL{
+    text-transform: lowercase;
+}
+#TTC{
+    text-transform: capitalize;
+}
+#TI{
+    text-indent: 15px;
+}
+#LS{
+    letter-spacing: 1px;
+}
+#LH{
+    line-height: 10px
+}
+#WS{
+word-spacing: 155px;
+}
+#TS{
+
+}

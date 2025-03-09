@@ -1,0 +1,35 @@
+body{
+    background-color: efefef;
+}
+
+#Caja{
+    background-color: ffffff;
+    margin: 5px;
+    padding: 10px;
+    margin-top: 0px;
+    border-left:1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+}
+p{
+    color: black;
+    font-size: 18px;
+    margin: 15px;
+}
+button{
+    width: 95px;
+    height: 49;
+    margin: 10;
+    margin-right:1px;
+    color: white;
+}
+#Ac{
+    background-color: #0384f8;
+}
+#Ca{
+    background-color: gray;
+}
+#XD{
+    padding: 0px;
+    margin: 0px;
+}
