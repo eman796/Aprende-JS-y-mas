@@ -1,5 +1,6 @@
 body{
     background-color: #fc5d9d;
+
 }
 a{
     font-family: Arial;
@@ -8,9 +9,14 @@ a{
 }
 a:link{
     color: black;
+    margin: 15px;
+    padding:5px;
+    background-color: black;
+    margin-bottom: 15%;
 }
 a:visited {
     color: blue;
+    padding: 5px;
 }
 a:hover{
     color:brown;
