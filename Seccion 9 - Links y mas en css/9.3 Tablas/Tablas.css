@@ -1,0 +1,30 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+    background-color: #aeb7b2;
+    border-radius: 10px;
+
+}
+body{
+    background-color: black;
+}
+tr:nth-child(even){
+    background-color: #0384f8;
+    border: solid 1px #000000;
+    border-collapse: collapse;
+}
+tr{
+    background-color: #fc5d9d;
+    border-collapse: collapse;
+    text-align: center;
+}
+td{
+    border: 1px solid white;
+    padding: 5px;
+    border-radius:5px;
+}
+th{
+    text-align: center;
+    padding: 10px;
+}

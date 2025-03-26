@@ -1,0 +1,22 @@
+ul{
+    background-color: black;
+    border:  dashed 10px #e3b49a;
+
+}
+ul li{
+    list-style-type: square;
+    color: #fc5d9d;
+    border-bottom: solid 1px #e3b49a;
+    padding: 5px;
+}
+body{
+padding: 10px;
+    padding-left: 0px;
+    margin: 5px;
+}
+h1{
+    color: pink;
+}
+a{
+    color: pink;
+}

@@ -1,0 +1,3 @@
+Para cambiar el circulito por defecto, se hace con una propiedad denominada "list-style-type" y se pone el valor deseado
+Tambien se les puede poner borde, ponerle diseño, Padding, etc.
+Una forma de separar los distintos items de una lista es poniendo un borde entre los elementos. Se hace con border-bottom

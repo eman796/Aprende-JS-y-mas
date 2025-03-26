@@ -1,0 +1,8 @@
+Una cosa que podemos configurarle es el espacio que queremos que use del div en el que está.
+Hay una propiedad muy especifica de la tabla, que se llama border-colapse.
+A veces es imperseptible, pero hay un borde al final de una columna, por lo que si lo igualamos a colapse, ese desaparece
+NOTA: Ese borde toma el color del fondo de la tabla, por lo que si le ponemos colores distintos a las filas, lo notaremos al instante
+
+Otro selector nuevo es tr:nth-child(even). Este agarra las filas pares y le añade propiedades especificas a estas, como por
+Ejemplo colores de fondo diferentes, mas animaciones, etc. Lo mismo es para el tr:nth-child(odd),pero este aplica para numeros pasres
+
