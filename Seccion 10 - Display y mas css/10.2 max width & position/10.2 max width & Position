@@ -1,0 +1,4 @@
+Se puede determinar el máximo de ancho de un elemento. Su diferencia con width es que max width le da un máximo, pero se usa lo qu el elemento ocupa, mientras
+que, width fija el tamaño del ancho de algo
+
+Positions (https://www.youtube.com/watch?v=tcYodQoapMg) se usa para darle la posicion a un objeto

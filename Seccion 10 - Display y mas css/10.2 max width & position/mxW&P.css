@@ -1,0 +1,11 @@
+body{
+    background-color: aliceblue;
+}
+#parrafo1{
+    background-color: lightblue;
+    max-width: 1500px;
+    height: 100px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}

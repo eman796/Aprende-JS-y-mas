@@ -1,0 +1,14 @@
+Si uno cierra un parrafo y vuelve a abrirse otro, veremos que ambos estan separados. Esto pasa porque el display (La forma en como se muestran) está por defecto
+en bloques. Se puede cambiar con la propiedad de css llamada display. 
+
+Propiedades bloque:
+1. P
+2. Titulos (h)
+3. Header
+4. Footer
+5. Section
+Propiedades Inline:
+1. Span
+2. a
+3. Img
+Tambien se puede hacer invisiblee un elemento con "display:none"
