@@ -1,0 +1,16 @@
+img {
+    float: right;
+    margin-right: 20px;
+}
+
+p {
+    text-align: justify;
+    font-size: 75px;
+}
+#BTM p{
+font-size: 25px;
+color: red;
+}
+#Transparencia img{
+    opacity: 0.5;
+}

@@ -1,0 +1,6 @@
+Overflow se usa en un contenido mas grande que lo que fue definido originalmente. 
+Visible: Viene por defecto activado y mantiene visible el contenido
+Hidden: Oculta todo el contenido que esta fuera del marco definido originalmente. 
+Scroll: Añade una barra de scroll a la derecha de nuestro contenido, y, inicialmente, solo muestra el contenido del marco definido originalmente. 
+Auto: Se usan las barras en caso de necesitarlo
+-y o -x: Se fuerza el Overflow para el eje y o x

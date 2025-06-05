@@ -2,3 +2,8 @@ Se puede determinar el máximo de ancho de un elemento. Su diferencia con width 
 que, width fija el tamaño del ancho de algo
 
 Positions (https://www.youtube.com/watch?v=tcYodQoapMg) se usa para darle la posicion a un objeto
+P.Static: Es la propiedad por defecto, se quedarann donde nosotros lo hayamos definido
+P.Relative: Tendra una nueva posicion con respecto a donde se encuentre. Podremos cambiarle la posicion con right, left, bottom y top
+P.Fixed: Deja el contenido cimpletamente fijo, sin importar todo el contenido existente. Util para menus, etc. 
+
+En el ejemplo, se puede ver que la imagen de Eyes Wide Open, a pesar de que hay mas contenido, se matiene en su misma posicion

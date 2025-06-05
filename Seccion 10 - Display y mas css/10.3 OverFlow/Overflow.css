@@ -1,0 +1,24 @@
+body{
+    font-size: 15px;
+    background-color: black;
+    color: pink;
+}
+div{
+    width: 300px;
+    height: 200px;
+    margin-bottom: 100px;
+    border: 1px solid pink;
+}
+#overflow-visible{
+    overflow: visible;
+}
+#overflow-hidden{
+    overflow: hidden;
+}
+#overflow-scroll{
+    overflow: scroll;
+}
+#LOriginal{
+    float:right;
+    height: auto
+}

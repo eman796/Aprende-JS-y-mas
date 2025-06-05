@@ -1,0 +1,7 @@
+Float: Se debe tener una imagen y un texto. Esta propiedad hace a la imagen flotar con el texto, poniendola o a la derecha o a la izquierda del texto, segun se lo indiquemos
+La imagen debe estar declarada antes que el texto
+
+Otra cosa que se puede hacer es combinar selectores. Un ejemplo es seleccionar h1 dentro de x div.
+
+Transaperiencia: Es que tan transpartente queremos que un elemento sea. Admite valores del 0 al 1, donde el 0 es transparente y 1 es solido
+Un ejemplo de donde usar esto utimo puede ser cuandio pasamos el mouse por encima
