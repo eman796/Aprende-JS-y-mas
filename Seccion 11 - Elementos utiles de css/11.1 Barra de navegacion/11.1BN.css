@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    background-color: black;
+}
+ol{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #333;
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+}
+ol a{
+    display: block;
+    padding: 12px 16px;
+    color: white;
+    text-decoration: none;
+}
+li{
+    float: left;
+}
+
+ol a:hover{
+    background-color: #111;
+
+}
+#navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+.content{
+    color: white;
+    margin-top: 70;
+    width: auto;
+}
