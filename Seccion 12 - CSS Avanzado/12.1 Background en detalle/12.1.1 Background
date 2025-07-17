@@ -1,0 +1,10 @@
+Color: Le da cualquier color al fondo de la página
+Image: Le da una foto como fondo. Puede ser de forma local o de una pagina web.
+Puede repetir la imagen ya que usa el campo disponible. Para quitar esto.
+Para quitar esto, tenemos la propiedad "background-repeat", y se puede decir que no, si, en el eje y o en el eje x
+Para cambiar la ubicacion del fondo, se puede cambiar usando background-position. Por defecto, está en left-top
+Para fijar la imagen y que se mueva con nosotros a medida que hacemos scroll, se usa la propiedad de background-attachment. Por defecto, usa el valor de scroll
+Para cambiar el tamaño de imagen para el fondo entero, se usa background-size
+
+Para cambiar el fondo entero sin tanto comando, se usa solo background, con el siguiente orden:
+color-imagen-repeticion-posicion-attachment.
